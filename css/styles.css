@@ -112,23 +112,22 @@ p{
   padding: 2% auto;
 }
 
-/* Footer */
 
-/* #footer{
-  padding: 7% 15%;
-  text-align: center;
-  background-color: gray;
-}
-
-.social-media-icon{
-  padding: 0 1%;
-}
-
-.copyright{
-  margin-top: 3%;
-  color: black;
-} */
 @media (max-width: 1028px){
+
+  h1{
+    font-size: 5.5rem;
+  }
+  h2{
+    font-size: 4.5rem;
+  }
+  h3{
+    font-size: 3.5rem;
+  }
+
+  p{
+    font-size: 2.5rem;
+  }
   .title-head{
     text-align: center;
   }
@@ -142,6 +141,7 @@ p{
   }
 
   .feature-icon{
+
     margin: 10% auto 5%;
   }
 
